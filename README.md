@@ -1,1 +1,1 @@
-# simonSays
+# SimonSays
