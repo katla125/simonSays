@@ -23,3 +23,6 @@ tangir,víra, eg lóðaði,setti kóða í arduino, lóðaði saman vira og við
 
 ## Mynd af teikningu af kassa
 ![](./asimon%20kassi.svg)
+
+
+[def]: ./IMG_2107.jpg
