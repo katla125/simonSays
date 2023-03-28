@@ -15,11 +15,11 @@ tangir,víra, eg lóðaði,setti kóða í arduino, lóðaði saman vira og við
 ![](./IMG_2118.jpg)
 
 ## Mynd af snúrum
-![](IMG_2109.jpg)
-![](IMG_2108.jpg))
+![](./IMG_2109.jpg)
+![](./IMG_2108.jpg)
 
 ## Mynd af tökkum
-![](IMG_2112.MOV.jpg)
+![](./IMG_2112.MOV.jpg)
 
 ## Mynd af teikningu af kassa
 ![](./asimon%20kassi.svg)
